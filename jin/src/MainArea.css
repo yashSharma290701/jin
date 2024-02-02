@@ -1,0 +1,36 @@
+.MainArea{
+    width: 100%;
+}
+.TimeTable{
+margin-left: 3rem;
+font-weight: 600;
+}
+.time{
+    margin-left: 3rem;
+    font-weight: 4 00;
+}
+.year{
+    margin-right: 3rem;
+}
+.timesection{
+    display: flex;
+    justify-content: space-between;
+}
+.Allocation{
+    display: flex;
+    justify-content: space-between;
+    background-color:#40A2E3;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    border-radius: 12px;
+    box-shadow: 10px 10px 5px lightblue;
+
+}
+.AllocationText{
+    padding: 0.03rem;
+    padding-left: 2rem;
+}
+.downarrow{
+padding: 0.03rem;
+padding-right: 1rem;
+}
